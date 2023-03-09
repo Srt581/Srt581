@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srt581
-- 👀 I’m interested in Machine learning and Deep learning, Software and Full stack development
+- 👀 I’m interested in AI, Machine learning and Full stack development
 - 🌱 I’m currently learning Applied Electronics and Instrumentation at College of Engineering Trivandrum
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me : Mob no- 6282778908
